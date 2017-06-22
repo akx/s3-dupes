@@ -1,0 +1,10 @@
+{
+  "name": "s3-dupes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.75.0",
+    "yargs": "^8.0.2"
+  }
+}
