@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.75.0",
+    "filesize": "^3.5.10",
+    "ramda": "^0.24.1",
     "yargs": "^8.0.2"
   }
 }
